@@ -1,0 +1,2 @@
+Try Insanely fast whisper
+Try llama.cpp on whisper
